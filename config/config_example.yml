@@ -1,0 +1,15 @@
+app:
+  name: 'name'
+  version: '1.0.0'
+
+postgres:
+  host: '0.0.0.0'
+  port: '0000'
+  user: 'user'
+  password: 'password'
+  dbname: 'dbname'
+  sslmode: 'disable'
+
+telegram:
+  token: '<token>'
+  

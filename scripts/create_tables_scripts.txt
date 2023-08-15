@@ -1,0 +1,18 @@
+CREATE TABLE test.books (
+    id int,
+    name text,
+    first_element int 
+);
+
+
+CREATE TABLE test.element_info (
+    id int,
+    full_desc text,
+    short_desc text,
+    type int
+);
+
+CREATE TABLE test.element_schema (
+    id int,
+    next_id int 
+);

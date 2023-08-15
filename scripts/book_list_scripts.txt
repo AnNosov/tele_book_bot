@@ -1,0 +1,1 @@
+INSERT INTO TEST.books VALUES (1, 'Дневник сумасшедшей мумии.', 3);
